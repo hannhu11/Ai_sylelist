@@ -1,0 +1,7 @@
+{
+  "name": "SmartStyle",
+  "description": "A high-end personal stylist application featuring AI wardrobe curation, outfit recommendations, and digital inventory management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
